@@ -1,4 +1,4 @@
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a9e435d2-670d-4c68-b538-17b9d552bc15" />
+
 # Ex.No:6 Design an android application Send SMS using Intent.
 
 
